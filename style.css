@@ -103,6 +103,11 @@ body {
   transition: 4.5s;
 }
 
+.gifts li:hover {
+  transform: scale(1.1);
+  transition: 1s;
+}
+
 .sway {
   -webkit-transform-origin: 50% 0;
   transform-origin: 50% 0;
