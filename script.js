@@ -64,6 +64,7 @@ for(var i = 0; i < gifts.length; i++) {
 
 (function(){
   //Blowy Snow
+  
 
   var flakeNum = 150;
   var pic = new Image(20,20);
@@ -175,3 +176,5 @@ for(var i = 0; i < gifts.length; i++) {
   window.addEventListener("load",init,false);
 
 })();
+
+// Источник снега https://codepen.io/Griggy/pen/ZLpbLB
