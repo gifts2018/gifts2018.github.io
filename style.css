@@ -64,13 +64,11 @@ body {
   display: none;
   align-items: center;
   justify-content: center;
-  color: black;
-  font-size: 50px;
+  font-size: 0px;
   font-weight: bold;
   background-repeat: no-repeat;
   background-size: contain;
   transition: 4.5s;
-  border: 2px solid white;
 }
 
 .gifts li:hover {
